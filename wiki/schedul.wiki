@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= 技术调查计划（20090913） =
+  * Eclips 的环境选择
+  * JXME 的技术研究，普通信息的传递，流媒体数据的传输
+  * 语音压缩技术的研究
+  * Ophone linux 的应用程序开发
